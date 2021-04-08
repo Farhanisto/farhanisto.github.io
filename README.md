@@ -1,1 +1,3 @@
-My Personal Web Page
+# farhanisto.github.io
+
+Personal Static Website
